@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/zepsgit/monster-rolodex/static/css/main.c975e3ac.chunk.css",
-    "main.js": "/zepsgit/monster-rolodex/static/js/main.d43f7891.chunk.js",
-    "main.js.map": "/zepsgit/monster-rolodex/static/js/main.d43f7891.chunk.js.map",
-    "runtime-main.js": "/zepsgit/monster-rolodex/static/js/runtime-main.7da0c8e0.js",
-    "runtime-main.js.map": "/zepsgit/monster-rolodex/static/js/runtime-main.7da0c8e0.js.map",
-    "static/js/2.d60c2819.chunk.js": "/zepsgit/monster-rolodex/static/js/2.d60c2819.chunk.js",
-    "static/js/2.d60c2819.chunk.js.map": "/zepsgit/monster-rolodex/static/js/2.d60c2819.chunk.js.map",
-    "index.html": "/zepsgit/monster-rolodex/index.html",
-    "static/css/main.c975e3ac.chunk.css.map": "/zepsgit/monster-rolodex/static/css/main.c975e3ac.chunk.css.map",
-    "static/js/2.d60c2819.chunk.js.LICENSE.txt": "/zepsgit/monster-rolodex/static/js/2.d60c2819.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/zepsgit/monster-rolodex/static/media/logo.6ce24c58.svg"
+    "main.css": "./static/css/main.c975e3ac.chunk.css",
+    "main.js": "./static/js/main.d43f7891.chunk.js",
+    "main.js.map": "./static/js/main.d43f7891.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c5225968.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c5225968.js.map",
+    "static/js/2.d60c2819.chunk.js": "./static/js/2.d60c2819.chunk.js",
+    "static/js/2.d60c2819.chunk.js.map": "./static/js/2.d60c2819.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.c975e3ac.chunk.css.map": "./static/css/main.c975e3ac.chunk.css.map",
+    "static/js/2.d60c2819.chunk.js.LICENSE.txt": "./static/js/2.d60c2819.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "./static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7da0c8e0.js",
+    "static/js/runtime-main.c5225968.js",
     "static/js/2.d60c2819.chunk.js",
     "static/css/main.c975e3ac.chunk.css",
     "static/js/main.d43f7891.chunk.js"
